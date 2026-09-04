@@ -39,4 +39,6 @@
 
 ### Stack
 
-TypeScript · Node.js · PostgreSQL · Prisma · Docker · Rust · OpenAI APIs · RAG
+**Backend** — TypeScript · Node.js · PostgreSQL · Prisma · Docker · Rust
+
+**AI / Agents** — RAG Pipelines · AI Agents · LangGraph · MCP (Model Context Protocol) · Voice Agents (OpenAI Realtime API) · Vector DBs (Qdrant · PgVector) · OpenAI · Claude · Gemini
