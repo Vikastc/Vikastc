@@ -15,7 +15,7 @@
 
 ### About
 
-- 🏗️ Founding Engineer at **[RubiX](https://github.com/RubiX-Stack)** — building the backend, infrastructure, and AI layer of a ~20-person startup in Bengaluru.
+- 🏗️ Founding Engineer at **[RubiX](https://github.com/RubiX-Stack)** — building the backend, infrastructure, and AI layer of a startup in Bengaluru.
 - 🔩 Previously at **[Dhiway](https://dhiway.com/)** — worked on the CORD Network ecosystem: decentralized identity, DIDs, and Verifiable Credentials.
 - 🤝 Open-source mentor at **C4GT (Code for GovTech)** — mentoring contributors on CORD Network and Sunbird-RC.
 - 🎓 Civil Engineering → Software Engineering. BMSIT, 2021.
@@ -24,9 +24,12 @@
 
 | Project | What it is |
 |---|---|
-| **[rubix_AI](https://github.com/RubiX-Stack/rubix_AI)** | Two production AI agents at RubiX: one for automated product listing, one for customer experience booking. |
-| **[myai.vikastc.in](https://myai.vikastc.in/)** | Personal playground for AI experiments — RAG pipelines, voice agents, agentic integrations. |
-| **[cord-api-service](https://github.com/Vikastc/cord-api-service)** | REST API service for submitting extrinsics to the CORD blockchain. |
+| **[myai.vikastc.in](https://myai.vikastc.in/)** | Personal AI playground — RAG pipelines, voice agents, and agentic integrations. |
+| **[voice.pipeline.vikastc.in](https://voice.pipeline.vikastc.in/)** | Interruption-aware real-time voice agent — talk, interrupt, and it picks up where it left off. |
+| **[Dialogue Spark Viz](https://dialogue-spark-viz.vercel.app/)** | Live voice agent with real-time conversation visualization. |
+| **[Persona Matrix](https://ai-assistant-two-plum.vercel.app/)** | LLM chat lab — AI personas giving practical, contextual answers for developers. |
+| **[rubix_AI](https://github.com/RubiX-Stack/rubix_AI)** | Production AI agents at RubiX: automated product listing and customer experience booking. |
+| **[cord-api-service](https://github.com/Vikastc/cord-api-service)** | REST API for submitting extrinsics to the CORD blockchain. |
 | **[cord.js](https://github.com/Vikastc/cord.js)** | TypeScript SDK for the CORD decentralized identity network. |
 
 ### Recognition
