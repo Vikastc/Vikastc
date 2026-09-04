@@ -29,13 +29,12 @@
 | **[Dialogue Spark Viz](https://dialogue-spark-viz.vercel.app/)** | Live voice agent with real-time conversation visualization. |
 | **[Persona Matrix](https://ai-assistant-two-plum.vercel.app/)** | LLM chat lab — AI personas giving practical, contextual answers for developers. |
 | **[rubix_AI](https://github.com/RubiX-Stack/rubix_AI)** | Production AI agents at RubiX: automated product listing and customer experience booking. |
-| **[cord-api-service](https://github.com/Vikastc/cord-api-service)** | REST API for submitting extrinsics to the CORD blockchain. |
 | **[cord.js](https://github.com/Vikastc/cord.js)** | TypeScript SDK for the CORD decentralized identity network. |
 
 ### Recognition
 
 - 🥈 **2nd place — Google Ener'gentic Hackathon 2025** (showcased at Stanford)
-- 🏫 **GenAI with JavaScript, Batch 1** — also evaluated the 2026 curriculum rewrite
+- 🏫 **GenAI with JavaScript** — also evaluated the 2026 curriculum rewrite
 
 ### Stack
 
