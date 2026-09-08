@@ -1,43 +1,46 @@
 <h1 align="center">Hi, I'm Vikas TC 👋</h1>
 
 <p align="center">
-  <em>I build backend systems and production AI agents. Occasionally ship open source.</em>
+  <em>GenAI & Backend Systems Engineer with 4 years of experience taking products 0→1.<br/>
+  Architecting production RAG pipelines, autonomous AI agents, real-time voice systems, and distributed backends.</em>
 </p>
 
 <p align="center">
-  <a href="https://myai.vikastc.in/">Website</a> ·
+  <a href="https://vikastc.in"><strong>Portfolio (vikastc.in)</strong></a> ·
   <a href="https://www.linkedin.com/in/vikas-tc/">LinkedIn</a> ·
-  <a href="https://x.com/vikastc99">X</a> ·
+  <a href="https://x.com/vikastc99">X (Twitter)</a> ·
   <a href="mailto:vikastc99@gmail.com">Email</a>
 </p>
 
 ---
 
-### About
+### 🚀 What I'm Building & Shipping
 
-- 🏗️ Founding Engineer at **[RubiX](https://github.com/RubiX-Stack)** — building the backend, infrastructure, and AI layer of a startup in Bengaluru.
-- 🔩 Previously at **[Dhiway](https://dhiway.com/)** — worked on the CORD Network ecosystem: decentralized identity, DIDs, and Verifiable Credentials.
-- 🤝 Open-source mentor at **C4GT (Code for GovTech)** — mentoring contributors on CORD Network and Sunbird-RC.
-- 🎓 Civil Engineering → Software Engineering. BMSIT, 2021.
+- 🏗️ **Founding Engineer at [RubiX](https://github.com/RubiX-Stack)** — Building core backend infrastructure and production AI agents:
+  - **Conversational Listing Co-pilot (0→1)**: Multimodal AI agent (voice + text) replacing manual merchant forms, reducing onboarding task completion time by 90%.
+  - **AI Trip Planner**: Translates chat into real, bookable itineraries with live catalog verification (eliminating fake fares/slots), stateful slot pinning, and Redis-backed session locking.
+- 🔩 **Previously at [Dhiway](https://dhiway.com/)** — Scaled distributed services on AWS Lambda (sustaining 3M+ req/day at 99.99% uptime) and built decentralized identity protocols (CORD Network, W3C DIDs, Verifiable Credentials) in TypeScript and Rust.
+- 🤝 **Open-Source Mentor at [Code for GovTech (C4GT)](https://www.codeforgovtech.in/)** — Mentoring contributors on CORD Network and Sunbird-RC digital public infrastructure.
+- 🏆 **2nd Place — Google Ener'gentic Hackathon 2025** (Submission showcased at **Stanford University**).
 
-### Projects
+---
 
-| Project | What it is |
-|---|---|
-| **[myai.vikastc.in](https://myai.vikastc.in/)** | Personal AI playground — RAG pipelines, voice agents, and agentic integrations. |
-| **[voice.pipeline.vikastc.in](https://voice.pipeline.vikastc.in/)** | Interruption-aware real-time voice agent — talk, interrupt, and it picks up where it left off. |
-| **[Dialogue Spark Viz](https://dialogue-spark-viz.vercel.app/)** | Live voice agent with real-time conversation visualization. |
-| **[Persona Matrix](https://ai-assistant-two-plum.vercel.app/)** | LLM chat lab — AI personas giving practical, contextual answers for developers. |
-| **[rubix_AI](https://github.com/RubiX-Stack/rubix_AI)** | Production AI agents at RubiX: automated product listing and customer experience booking. |
-| **[cord.js](https://github.com/Vikastc/cord.js)** | TypeScript SDK for the CORD decentralized identity network. |
+### ⚡ Featured Production & Open-Source Projects
 
-### Recognition
+| Project | Live Demo | Repository | Description |
+|---|:---:|:---:|---|
+| **RAG Studio & Ingestion Engine** | [myai.vikastc.in ↗](https://myai.vikastc.in/) | [chaibookLM ↗](https://github.com/Vikastc/chaibookLM) | End-to-end multimodal RAG (PDFs, YouTube, Firecrawl web scrape) with Inngest background job orchestration, Pinecone vector search, and Mem0 user memory. |
+| **Interruption-Aware Voice Pipeline** | [voice.pipeline.vikastc.in ↗](https://voice.pipeline.vikastc.in/) | [Pipeline Code ↗](https://github.com/Vikastc/voice-agent-pipeline) | Real-time, bi-directional voice agent with conversational turn detection and sub-500ms voice latency. Handles user interruptions mid-sentence gracefully. |
+| **Dialogue Spark Viz** | [dialogue-spark-viz.vercel.app ↗](https://dialogue-spark-viz.vercel.app/) | [Source Code ↗](https://github.com/Vikastc/dialogue-spark-viz) | Live conversational voice agent paired with real-time dot-matrix audio spectrum telemetry and visual turn-taking state machine. |
+| **RubiX Multi-Agent Layer** | [rubix.world ↗](https://rubix.world) | [rubix_AI ↗](https://github.com/RubiX-Stack/rubix_AI) | Production multi-agent orchestration service automating catalog extraction and conversational booking. |
+| **CORD API Service** | — | [cord-api-service ↗](https://github.com/Vikastc/cord-api-service) | High-throughput REST API gateway microservice for submitting extrinsics to the CORD Substrate blockchain. |
+| **cord.js SDK** | — | [cord.js ↗](https://github.com/Vikastc/cord.js) | Official open-source TypeScript SDK for decentralized identifiers (DIDs) and cryptographic verifiable credential issuance. |
 
-- 🥈 **2nd place — Google Ener'gentic Hackathon 2025** (showcased at Stanford)
-- 🏫 **GenAI with JavaScript** — also evaluated the 2026 curriculum rewrite
+---
 
-### Stack
+### 🛠️ Technical Stack
 
-**Backend** — TypeScript · Node.js · PostgreSQL · Prisma · Docker · Rust
-
-**AI / Agents** — RAG Pipelines · AI Agents · LangGraph · MCP (Model Context Protocol) · Voice Agents (OpenAI Realtime API) · Vector DBs (Qdrant · PgVector) · OpenAI · Claude · Gemini
+- **AI & Agentic Systems**: RAG Pipelines · Multi-Agent Workflows · Voice Agents (WebSockets, OpenAI Voice SDK) · LangGraph · Qdrant · Pinecone · Mem0 · Structured Schemas (Zod) · Prompt Engineering & Guardrails
+- **Backend & Distributed Systems**: Node.js · TypeScript · PostgreSQL · Prisma ORM · Redis · Docker · Microservices · REST & WebSocket APIs · Rust / Substrate
+- **Cloud & DevOps**: AWS (Lambda, S3) · Hostinger · Docker Compose · CI/CD (GitHub Actions) · Linux
+- **Augmented Engineering**: Claude Code · Cursor · Git
