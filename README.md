@@ -32,9 +32,6 @@
 | **RAG Studio & Ingestion Engine** | [myai.vikastc.in ↗](https://myai.vikastc.in/) | [chaibookLM ↗](https://github.com/Vikastc/chaibookLM) | End-to-end multimodal RAG (PDFs, YouTube, Firecrawl web scrape) with Inngest background job orchestration, Pinecone vector search, and Mem0 user memory. |
 | **Interruption-Aware Voice Pipeline** | [voice.pipeline.vikastc.in ↗](https://voice.pipeline.vikastc.in/) | [Pipeline Code ↗](https://github.com/Vikastc/voice-agent-pipeline) | Real-time, bi-directional voice agent with conversational turn detection and sub-500ms voice latency. Handles user interruptions mid-sentence gracefully. |
 | **Dialogue Spark Viz** | [dialogue-spark-viz.vercel.app ↗](https://dialogue-spark-viz.vercel.app/) | [Source Code ↗](https://github.com/Vikastc/dialogue-spark-viz) | Live conversational voice agent paired with real-time dot-matrix audio spectrum telemetry and visual turn-taking state machine. |
-| **RubiX Multi-Agent Layer** | [rubix.world ↗](https://rubix.world) | [rubix_AI ↗](https://github.com/RubiX-Stack/rubix_AI) | Production multi-agent orchestration service automating catalog extraction and conversational booking. |
-| **CORD API Service** | — | [cord-api-service ↗](https://github.com/Vikastc/cord-api-service) | High-throughput REST API gateway microservice for submitting extrinsics to the CORD Substrate blockchain. |
-| **cord.js SDK** | — | [cord.js ↗](https://github.com/Vikastc/cord.js) | Official open-source TypeScript SDK for decentralized identifiers (DIDs) and cryptographic verifiable credential issuance. |
 
 ---
 
