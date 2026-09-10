@@ -19,10 +19,12 @@
 - 🏆 2nd place at **Google's Ener'gentic Hackathon 2025** (showcased at Stanford).
 - 📫 Find everything I build at **[vikastc.in](https://vikastc.in/)**
 
-### Products
+### Projects
 
-- 📚 **[RAG Studio](https://myai.vikastc.in/)** — End-to-end multimodal RAG with Inngest background orchestration, Pinecone vector search, and Mem0 memory persistence.
-- 🎙️ **[Voice Pipeline](https://voice.pipeline.vikastc.in/)** — Interruption-aware real-time voice agent with natural turn detection and sub-500ms audio streaming.
-- ⚡ **[Dialogue Spark Viz](https://dialogue-spark-viz.vercel.app/)** — Interactive AI voice agent paired with real-time dot-matrix audio spectrum telemetry.
-- 🧪 **[Persona Matrix](https://ai-assistant-two-plum.vercel.app/)** — Developer LLM chat lab experimenting with dynamic personas and structured prompt outputs.
+| Project | What it is |
+|---|---|
+| **[RAG Studio](https://myai.vikastc.in/)** | End-to-end multimodal RAG with Inngest background orchestration, Pinecone vector search, and Mem0 memory persistence. |
+| **[Voice Pipeline](https://voice.pipeline.vikastc.in/)** | Interruption-aware real-time voice agent with natural conversational turn detection and sub-500ms streaming. |
+| **[Dialogue Spark Viz](https://dialogue-spark-viz.vercel.app/)** | Interactive AI voice agent paired with real-time dot-matrix audio spectrum telemetry. |
+| **[Persona Matrix](https://ai-assistant-two-plum.vercel.app/)** | Developer LLM chat lab experimenting with dynamic personas and structured prompt outputs. |
 
