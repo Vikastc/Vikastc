@@ -17,5 +17,12 @@
 - 🎙️ Building real-time **voice pipelines**, **multimodal RAG systems**, and **autonomous agent workflows** in TypeScript & Node.js.
 - 🤝 Open-source mentor at **[Code for GovTech (C4GT)](https://www.codeforgovtech.in/)**.
 - 🏆 2nd place at **Google's Ener'gentic Hackathon 2025** (showcased at Stanford).
-- 📫 Explore all my live deployed systems, case studies, and code at **[vikastc.in](https://vikastc.in/)**
+- 📫 Find everything I build at **[vikastc.in](https://vikastc.in/)**
+
+### Products
+
+- 📚 **[RAG Studio](https://myai.vikastc.in/)** — End-to-end multimodal RAG with Inngest background orchestration, Pinecone vector search, and Mem0 memory persistence.
+- 🎙️ **[Voice Pipeline](https://voice.pipeline.vikastc.in/)** — Interruption-aware real-time voice agent with natural turn detection and sub-500ms audio streaming.
+- ⚡ **[Dialogue Spark Viz](https://dialogue-spark-viz.vercel.app/)** — Interactive AI voice agent paired with real-time dot-matrix audio spectrum telemetry.
+- 🧪 **[Persona Matrix](https://ai-assistant-two-plum.vercel.app/)** — Developer LLM chat lab experimenting with dynamic personas and structured prompt outputs.
 
